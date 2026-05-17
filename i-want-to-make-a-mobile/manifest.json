@@ -1,0 +1,17 @@
+{
+  "name": "CountNow",
+  "short_name": "CountNow",
+  "description": "Add events and watch live countdowns.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fbfcfb",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
